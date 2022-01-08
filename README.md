@@ -5,7 +5,8 @@ Has multiple views..
 
 Dependencies include glut.
 
-All objects are rendered with effects simulaiting light.
+All objects are rendered with effects simulating  light.
+
 Terrain is randomly generated with different heights.
 
 Views include:
@@ -13,10 +14,11 @@ Views include:
 1.Regular view( User controlled, can move around the world)
 
 2. Window view, fixed view from Train window to side
- 
+
 3. Engine view, fixed view ahead
 
 4. Side view, fixed view from above to the side of the train
+
 
 Demo: 
 
