@@ -3,7 +3,7 @@ A C++ Graphics project featuring a train passing by a river with flowing water.
 
 Has multiple views.. 
 
-Dependencies include glut.
+Dependencies include glut(OpenGL).
 
 All objects are rendered with effects simulating  light.
 
