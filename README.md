@@ -1,4 +1,4 @@
-# Train-Graphics
+# Computer Graphics Project Multiple Views Train
 A C++ Graphics project featuring a train passing by a river with flowing water.
 
 Has multiple views.. 
