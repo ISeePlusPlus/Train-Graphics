@@ -1,9 +1,8 @@
 # Train-Graphics
-Graphical project of Train passing by a bridge and a river with multiple views.
-All objects are rendered with effects simulaiting light
-Terrain is randomly generated with different heights
-
-Dependencies include glut
+A C++ Graphics project featuring a train passing by a river with flowing water with multiple views.. 
+Dependencies include glut.
+All objects are rendered with effects simulaiting light.
+Terrain is randomly generated with different heights.
 
 Views include:
 
