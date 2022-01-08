@@ -20,6 +20,6 @@ Views include:
 4. Side view, fixed view from above to the side of the train
 
 
-Demo: 
+Demo: (Click to redirect to full video) 
 
 [![Train-Graphics](http://img.youtube.com/vi/bdV5wjRKdzA/0.jpg)](http://www.youtube.com/watch?v=bdV5wjRKdzA)
